@@ -1,1 +1,2 @@
 
+ Repositório de artefatos de projeto numa ferramenta de Gestão de Configuração
